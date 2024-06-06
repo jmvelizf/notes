@@ -3,6 +3,8 @@ set clipboard=unnamedplus
 set incsearch
 set smartcase
 set noswapfile
+set nowrap
+syntax on
 
 let mapopts = 'noremap silent'
 
