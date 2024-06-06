@@ -1,4 +1,4 @@
-et number
+set number
 set clipboard=unnamedplus
 set incsearch
 set smartcase
